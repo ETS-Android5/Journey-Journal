@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/SpecificJournalCommentBackground"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start">
+
+    <!-- Container -->
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/nav_view"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        app:headerLayout="@layout/nav_header_loginsignup" />
+
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!-- App bar -->
+        <com.google.android.material.appbar.AppBarLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:elevation="6dp">
+
+            <!-- Tool bar -->
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="?attr/colorPrimary"
+                android:paddingRight="10dp"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/AppTheme.PopupOverlay">
+
+                <!-- Toolbar text info -->
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_vertical"
+                    android:text="Journal Entry"
+                    android:textSize="21sp" />
+
+            </androidx.appcompat.widget.Toolbar>
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <!-- Relitive layout box -->
+        <RelativeLayout
+            android:id="@+id/relativeLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:focusableInTouchMode="true"
+            android:orientation="vertical"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+            <!-- Journal entry, made as a card -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/topContainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp">
+
+                <!-- Each journal entry -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/white"
+                    android:orientation="vertical">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal"
+                        android:padding="8dp">
+
+                        <!-- Views icon -->
+                        <ImageView
+                            android:id="@+id/imgProfile1"
+                            android:layout_width="34dp"
+                            android:layout_height="34dp"
+                            android:src="@drawable/ic_camera" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_toRightOf="@+id/imgProfile1"
+                            android:orientation="vertical">
+
+                            <!-- Journal creator -->
+
+                            <TextView
+                                android:id="@+id/textName"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="8dp"
+                                android:text="Billy Robinson"
+                                android:textStyle="bold" />
+
+                            <!-- Timestamp -->
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="8dp"
+                                android:drawablePadding="4dp"
+                                android:text="An hour ago"
+                                android:textColor="@color/SpecificJournalfontGray"
+                                android:textSize="11sp" />
+
+                        </LinearLayout>
+
+                        <!-- Text - Custom font, with colour -->
+                        <TextView
+                            android:id="@+id/buttonLocation"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_alignParentRight="true"
+                            android:layout_centerVertical="true"
+                            android:layout_marginLeft="4dp"
+                            android:onClick="onClick"
+                            android:text="View Location"
+                            android:textColor="@color/SpecificJournalcolorPrimary"
+                            android:textStyle="bold" />
+
+                    </RelativeLayout>
+
+                    <!-- Placeholder image -->
+                    <ImageView
+                        android:id="@+id/image1"
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:scaleType="centerCrop"
+                        android:src="@mipmap/loginsignup23_bg" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@android:color/white"
+                        android:orientation="vertical"
+                        android:padding="12dp">
+
+                        <TextView
+                            android:id="@+id/editTextContent"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2"
+                            android:autoText="true"
+                            android:drawablePadding="4dp"
+                            android:text="1347"
+                            android:textSize="12sp" />
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <!-- Layout box for comment box -->
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/inputContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingTop="20px"
+            app:layout_anchor="@+id/relativeLayout"
+            app:layout_anchorGravity="center">
+
+            <!-- Comment box with placeholder -->
+
+            <!-- Send button -->
+            <Button
+                android:id="@+id/buttonEdit"
+                style="@style/ButtonOrange"
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:layout_margin="4dp"
+                android:layout_weight="4"
+                android:onClick="onClick"
+                android:text="Edit"
+                android:textColor="@android:color/white" />
+
+            <Button
+                android:id="@+id/buttonDelete"
+                style="@style/ButtonOrange"
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:layout_margin="4dp"
+                android:layout_weight="4"
+                android:onClick="onClick"
+                android:text="Delete"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+    <!-- Navigation bar -->
+
+</androidx.drawerlayout.widget.DrawerLayout>

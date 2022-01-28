@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/drawable-v21/button_blue.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/drawable-v21/button_gray.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/drawable-v21/button_orange.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/drawable-v21/button_white.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/drawable-v21/menunavigation2_buttonmenu.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/drawable/loginsignup23_bg.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/drawable/menunavigation2_buttonmenu.xml" value="0.22135416666666666" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/activity10_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/activity8_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/activity9_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/activity_maps.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/create_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/dialog_mapstyle5.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/dummy_content.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/edit_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/grid_activity8.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/home_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/journallayout.xml" value="0.4456692913385827" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/journallist_layout.xml" value="0.47200622083981336" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/loginsignup23_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/loginsignup2_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/menu_category_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/menunavigation2_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/nav_header_loginsignup.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/navigation_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/row_activity9.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/row_mainmenu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/row_menu_category.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/signinlayout.xml" value="0.35054347826086957" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/signuplayout.xml" value="0.1" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/specificjournal.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/specificjournalview_layout.xml" value="0.32894736842105265" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/layout/splashlayout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/menu/activity3_menu.xml" value="0.2786458333333333" />
+        <entry key="..\:/Users/Billy/Downloads/JourneyJournalSubmission/app/src/main/res/menu/map9_menu.xml" value="0.2786458333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/activity10_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/activity11_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/activity4_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/activity8_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/activity9_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/activity_main.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/dialog_mapstyle5.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/dummy_content.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/extra_checkbox_dark_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/grid_activity8.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/grid_gallery8.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/grid_menunavigation17.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/home_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/instagram_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/loginsignup23_layout.xml" value="0.25" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/loginsignup2_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/loginsignup3_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/loginsignup4_fragment.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/menu_category_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/nav_header_loginsignup.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/news10_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/profile10_fragment.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/row_activity9.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/row_loginsignup10.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/row_loginsignup20.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/row_map8.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/row_map9.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/row_mapnavigation4.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/row_mapstyle2.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/row_menu_category.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/layout/youtube_layout.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Billy/Downloads/codecanyon-Ir8Q9VyF-material-design-templates/app/src/main/res/menu/music7_menu.xml" value="0.19114583333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

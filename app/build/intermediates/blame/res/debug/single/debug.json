@@ -1,0 +1,278 @@
+[
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_camera_active.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera_active.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_button_orange.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-v21\\button_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\mipmap-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera_black.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_journallayout.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\journallayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_camera_nonactive.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-xhdpi\\ic_camera_nonactive.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_dialog.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\edit_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_mainmenu.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\row_mainmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable_extra_dialog1_bg.jpg.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable\\extra_dialog1_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_loginsignup.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\nav_header_loginsignup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_write.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable\\ic_write.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable_menunavigation2_buttonmenu.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable\\menunavigation2_buttonmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_layout.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\navigation_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_loginsignup23_bg.jpg.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\mipmap-xhdpi\\loginsignup23_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_more_white.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable\\ic_more_white.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_camera_nonactive.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-mdpi\\ic_camera_nonactive.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_bold.ttf.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\font\\lato_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-mdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_camera_active.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-xhdpi\\ic_camera_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps2.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\activity_maps2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_specificjournalview_layout.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\specificjournalview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_button_gray.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-v21\\button_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\mipmap-xhdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_button_white.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-v21\\button_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_camera_black.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_create_dialog.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\create_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_camera_active.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-mdpi\\ic_camera_active.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_signinlayout.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\signinlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_regular.ttf.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\font\\lato_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_loginsignup23_bg.jpg.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\mipmap-hdpi\\loginsignup23_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-hdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity3_menu.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\menu\\activity3_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_clock_small.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\mipmap-xhdpi\\ic_clock_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_loginsignup23_bg.jpg.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\mipmap-xxhdpi\\loginsignup23_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_dummy_content.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\dummy_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profiile_pic.jpg.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-mdpi\\profiile_pic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_camera_black.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-mdpi\\ic_camera_black.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_splashlayout.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\splashlayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_clock_small.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_clock_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loginsignup23_bg.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable\\loginsignup23_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_menu_category_layout.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\menu_category_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_menu_category.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\row_menu_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_menunavigation2_buttonmenu.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-v21\\menunavigation2_buttonmenu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_signuplayout.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\signuplayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_arrow_menu.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-xxhdpi\\ic_arrow_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_specificjournal.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\specificjournal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_menu.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_camera.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\mipmap-xhdpi\\ic_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_clock_small.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\mipmap-hdpi\\ic_clock_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_arrow_menu.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-mdpi\\ic_arrow_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_button_blue.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-v21\\button_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_camera_nonactive.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-xxhdpi\\ic_camera_nonactive.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_camera_nonactive.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-hdpi\\ic_camera_nonactive.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\font_robotoslab_bold.ttf.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\font\\robotoslab_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_journallist_layout.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\journallist_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_arrow_menu.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-hdpi\\ic_arrow_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_home.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\mipmap-hdpi\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_maps.xml.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_arrow_back.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-xhdpi\\ic_arrow_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_camera_black.png.flat",
+        "source": "C:\\Users\\Billy\\Downloads\\JourneyJournalSubmission\\app\\src\\main\\res\\drawable-xhdpi\\ic_camera_black.png"
+    }
+]

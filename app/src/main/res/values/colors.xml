@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#36394c</color>
+    <color name="colorPrimaryDark">#36394c</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="button_orange">#fe5824</color>
+    <color name="button_white">@android:color/white</color>
+    <color name="button_gray">#f1f5f8</color>
+
+    <color name="accent">#caffeb3b</color>
+    <color name="accent_translucent">#caffeb3b</color>
+    <color name="main_menu_bg">#34374a</color>
+    <color name="main_menu_bg_active">#353a4c</color>
+    <color name="main_menu_count_active">#ffffff</color>
+    <color name="main_menu_count_nonactive">#84ff02</color>
+
+    <!--LOGIN AND SIGNUP -->
+    <color name="LoginSignupAccent">#fe5824</color>
+    <color name="LoginSignupInputBG">#f1f5f8</color>
+
+    <!-- Splash screen -->
+    <color name="SplashColourAccent">#fe5824</color>
+    <color name="SplashFormBG">#f1f5f8</color>
+
+    <!-- Menu navigation -->
+    <color name="MenucolorPrimary">#8f26aa</color>
+    <color name="MenuPrimaryDark">#7824a1</color>
+    <color name="MenuAccent">#8f26aa</color>
+    <color name="MenuBg">#f1f5f8</color>
+
+    <!-- Journal List -->
+    <color name="JournalListcolorPrimary">#f44337</color>
+    <color name="JournalListcolorPrimaryDark">#d72d33</color>
+    <color name="JournalListcolorAccent">#f44337</color>
+    <color name="JournalListfontGray">#bebebe</color>
+
+    <!--style 9-->
+    <color name="SpecificJournalcolorPrimary">#f44337</color>
+    <color name="SpecificJournalcolorPrimaryDark">#d72d33</color>
+    <color name="SpecificJournalcolorAccent">#f44337</color>
+    <color name="SpecificJournalfontGray">#999696</color>
+    <color name="SpecificJournalCommentBackground">#f1f5f8</color>
+
+</resources>

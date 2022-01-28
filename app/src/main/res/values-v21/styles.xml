@@ -1,0 +1,42 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+
+    <!-- LOGIN AND SIGNUP -->
+
+    <style name="ButtonOrange" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_orange</item>
+    </style>
+
+    <style name="ButtonWhite" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_white</item>
+    </style>
+
+    <style name="ButtonGray" parent="@android:style/Widget.Button">
+        <item name="android:background">@drawable/button_gray</item>
+    </style>
+
+    <!-- Login style -->
+    <style name="LoginTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="colorPrimaryDark">@android:color/transparent</item>
+        <item name="colorAccent">@color/LoginSignupAccent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="android:windowTranslucentStatus">true</item>
+    </style>
+
+    <!-- Menu navigation -->
+    <style name="MenuNavigation2ButtonMenu" parent="@style/Widget.AppCompat.Button.Borderless">
+        <item name="android:background">@drawable/menunavigation2_buttonmenu</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingStart">16dp</item>
+    </style>
+
+</resources>

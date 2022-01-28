@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Journey Journal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, tritani suscipit sea id. Dico eloquentiam et sea, movet intellegam at pri. In vis natum gubergren efficiendi. Esse integre vivendum nec te. Modus iusto sententiae duo ut, mei iudico graeci nostrud eu, mundi exerci repudiare ei pri. Mundi alterum facilisi ne mel, quas placerat hendrerit ei mea, hinc habeo illud ei pri.</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>

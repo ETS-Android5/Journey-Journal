@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tubb.smrv:swipemenu-recyclerview:5.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f02e0d4792097a573c36189642ef628c/jetified-swipemenu-recyclerview-5.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f02e0d4792097a573c36189642ef628c/jetified-swipemenu-recyclerview-5.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f02e0d4792097a573c36189642ef628c/jetified-swipemenu-recyclerview-5.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bff577e237ef308fb1ddd8124643f4c/jetified-swipemenu-recyclerview-5.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bff577e237ef308fb1ddd8124643f4c/jetified-swipemenu-recyclerview-5.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4bff577e237ef308fb1ddd8124643f4c/jetified-swipemenu-recyclerview-5.4.0/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tubb.smrv/swipemenu-recyclerview/5.4.0/67bf599f641bc8785ef5c78c833c7e38acad752e/swipemenu-recyclerview-5.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tubb.smrv/swipemenu-recyclerview/5.4.0/cdd79750816615014e9a34fa8b8a885a4bb66cad/swipemenu-recyclerview-5.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

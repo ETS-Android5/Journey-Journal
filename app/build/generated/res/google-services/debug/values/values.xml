@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">52753324039-400ka7ebljf8e8pnlaiorkqeikmjfkkp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">52753324039</string>
+    <string name="google_api_key" translatable="false">AIzaSyAgw16BMEIq_IPTE75zZmArKBp7Ih7tgus</string>
+    <string name="google_app_id" translatable="false">1:52753324039:android:2ce3f52280d7b46d57b2a2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAgw16BMEIq_IPTE75zZmArKBp7Ih7tgus</string>
+    <string name="google_storage_bucket" translatable="false">journeyjournal-dc568.appspot.com</string>
+    <string name="project_id" translatable="false">journeyjournal-dc568</string>
+</resources>

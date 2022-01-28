@@ -1,0 +1,136 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+    </style>
+
+    <style name="DrawerArrowStyle" parent="@style/Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="MainMenuLeftButtonStyle" parent="Widget.AppCompat.ActionButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">52dp</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:layout_marginLeft">15dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingRight">5dp</item>
+        <item name="android:paddingBottom">8dp</item>
+        <item name="android:drawablePadding">10dp</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="ButtonOrange" parent="@android:style/Widget.Button">
+        <item name="android:background">@color/button_orange</item>
+    </style>
+
+    <style name="ButtonWhite" parent="@android:style/Widget.Button">
+        <item name="android:background">@color/button_white</item>
+    </style>
+
+    <style name="ButtonGray" parent="@android:style/Widget.Button">
+        <item name="android:background">@color/button_gray</item>
+    </style>
+
+    <style name="MainButtonMenu" parent="@android:style/Widget.Button">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:paddingLeft">22dp</item>
+        <item name="android:paddingStart">22dp</item>
+    </style>
+
+    <!-- LOGIN AND SIGNUP  -->
+    <style name="LoginSignup" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="colorPrimaryDark">@android:color/transparent</item>
+        <item name="colorAccent">@color/LoginSignupAccent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="LoginSignupInput">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/activity_vertical_margin</item>
+        <item name="android:layout_marginLeft">@dimen/activity_horizontal_margin</item>
+        <item name="android:layout_marginRight">@dimen/activity_horizontal_margin</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:background">@color/LoginSignupInputBG</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <!-- Splash Screen -->
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@android:color/transparent</item>
+        <item name="colorPrimaryDark">@android:color/transparent</item>
+        <item name="colorAccent">@color/LoginSignupAccent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
+
+    <!-- Menu navigation -->
+    <style name="MenuNavigation" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/MenucolorPrimary</item>
+        <item name="colorPrimaryDark">@color/MenuPrimaryDark</item>
+        <item name="colorAccent">@color/MenuAccent</item>
+    </style>
+
+    <style name="MenuNavigationInput">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">5dp</item>
+        <item name="android:paddingLeft">12dp</item>
+        <item name="android:paddingRight">6dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:background">@android:color/white</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="MenuNavigationButtonMenu" parent="@android:style/Widget.Button">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:paddingStart">16dp</item>
+    </style>
+
+    <!-- Journal list -->
+    <style name="JournalListTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/JournalListcolorPrimary</item>
+        <item name="colorPrimaryDark">@color/JournalListcolorPrimaryDark</item>
+        <item name="colorAccent">@color/JournalListcolorAccent</item>
+    </style>
+
+    <!-- Specific Journal -->
+    <style name="SpecificJournalTheme">Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/SpecificJournalcolorPrimary</item>
+        <item name="colorPrimaryDark">@color/SpecificJournalcolorPrimaryDark</item>
+        <item name="colorAccent">@color/SpecificJournalcolorAccent</item>
+    </style>
+
+    <style name="SpecificJournalInput">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:background">@android:color/white</item>
+    </style>
+
+</resources>
