@@ -1,4 +1,4 @@
-# Journey-Journal
+# Journey Journal
 Within this University task, I was asked to create a mobile application. I was given specifications by a client and had to design, program and release a mobile application that met the given requirements, without further consulting the client within this process.
 
 # 📝 Requirements:
